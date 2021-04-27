@@ -20,6 +20,10 @@ $ python main.py
 ### Example : 
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/58447494/116325711-b35e7600-a7ba-11eb-8bc1-64aefd12d4fd.PNG" width="500" title="hover text">
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/58447494/116325424-0552cc00-a7ba-11eb-98bb-6c768485da00.PNG" width="500" title="hover text">
 </p>
 
