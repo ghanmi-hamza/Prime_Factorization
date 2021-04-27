@@ -18,11 +18,9 @@ $ python main.py
 
 
 ### Example : 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58447494/116322978-09c8b600-a7b5-11eb-96ac-a8a60ac49596.PNG" width="500" title="hover text">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58447494/116323349-b60a9c80-a7b5-11eb-9d40-d3e8fd56131e.PNG" width="500" title="hover text">
+  <img src="https://user-images.githubusercontent.com/58447494/116325424-0552cc00-a7ba-11eb-98bb-6c768485da00.PNG" width="500" title="hover text">
 </p>
 
 <hr>
