@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+<title>Post</title>
+{% endblock %}
+
+{% block body %}
+<h1>Hey {{ name }} :</h1>
+<h3>The Prime Factorization of {{n}} is :</h3>
+<h5>{{ result }}</h5>
+<!--{% for e in result %}
+    <h5>{{ e }}</h5>
+{% endfor %}-->
+{% endblock %}

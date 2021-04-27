@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+<title>Home</title>
+{% endblock %}
+
+{% block body %}
+<h2>Hi There, this is a Prime Factorization app</h2>
+    <hr>
+    <!--<h2>Create New Blog Post:</h2>-->
+    <form action="/" method="POST">
+        <label for="author">Author</label> 
+        <input class="form-control" type="text" name="author" id="author" placeholder="Enter your name" aria-label="Enter author">
+        <br>
+        <label for="content">Number</label> 
+        <textarea class="form-control" name="content" id="content" placeholder="Enter a number" aria-label="Enter content" rows="2"></textarea>
+
+        <br>
+        <input type="submit" value="Post">
+    </form>
+    <hr>
+{% endblock %}
